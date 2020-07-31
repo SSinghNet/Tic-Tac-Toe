@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="topText">TopText</string>
+    <string name="squareAlt">square</string>
+    <string name="playerOneTurn">Player 1\'s Turn (X)</string>
+    <string name="playerTwoTurn">Player 2\'s Turn (O)</string>
+    <string name="playerOneResult">Player 1 is the winner</string>
+    <string name="playerTwoResult">Player 2 is the winner</string>
+    <string name="tiedResult">It is a tie</string>
+    <string name="playAgainBtn">Play Again</string>
+</resources>
